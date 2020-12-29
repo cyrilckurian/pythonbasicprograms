@@ -1,3 +1,4 @@
+#Simple stack program (manage employee data)
 Employee=[]
 c="y"
 while(c=="y"):
